@@ -1,2 +1,12 @@
-alpine
+dongtai/dongtai-worker-task
+dongtai/dongtai-logstash
+dongtai/dongtai-worker-beat
+dongtai/dongtai-worker-other
+dongtai/dongtai-mysql
+dongtai/dongtai-worker-es
+dongtai/dongtai-worker-sca
+dongtai/dongtai-logrotate
+dongtai/dongtai-redis
 dongtai/dongtai-web
+dongtai/dongtai-worker-high-freq
+dongtai/dongtai-server
