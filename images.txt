@@ -1,11 +1,1 @@
-dongtai-worker-sca
-dongtai-worker-beat
-dongtai-web
-dongtai-worker-high-freq
-dongtai-mysql
-dongtai-logrotate
-dongtai-worker-es
-dongtai-worker-other
-dongtai-logstash
-dongtai-server
-dongtai-redis
+alpine
