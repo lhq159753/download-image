@@ -1,4 +1,3 @@
-dongtai/dongtai-worker-task
 dongtai/dongtai-logstash
 dongtai/dongtai-worker-beat
 dongtai/dongtai-worker-other
