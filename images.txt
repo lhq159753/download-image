@@ -1,1 +1,2 @@
- cppla/serverstatus
+cppla/serverstatus
+webgoat/webgoat-8.0
